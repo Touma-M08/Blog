@@ -1,0 +1,16 @@
+ul {
+    display: flex;
+}
+        
+li {
+    list-style: none;
+    margin-left: 10px;
+}
+
+a {
+    color: #0000F1;
+}
+
+.active {
+    color: #000;
+}
